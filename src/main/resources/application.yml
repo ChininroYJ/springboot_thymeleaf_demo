@@ -1,0 +1,5 @@
+server:
+  port: 9000
+spring:
+  thymeleaf:
+    cache: false    #禁用thymeleaf的缓存
